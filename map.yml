@@ -1,3 +1,3 @@
-map_name: oztea_1939_global
+map_name: wwi_1939
 games:
-- {game_name: Oztea 1939 Global, file_name: Oztea_1939_Global.xml}
+- {game_name: World War I 1939, file_name: wwi_1939.xml}
