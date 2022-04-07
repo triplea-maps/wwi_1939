@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE game SYSTEM "game.dtd">
 <game>
-  <info name="World War I 1939" version="1.1"/>
+  <info name="WWI 1939" version="1.1"/>
   <loader javaClass="games.strategy.triplea.TripleA"/>
   <triplea minimumVersion="1.9"/>
   <map>
@@ -2298,7 +2298,7 @@
       <value>
 <![CDATA[
 
-World War I 1939<br>
+WWI 1939<br>
 <br>
 An alternative timeline which World War I takes place in 1939.<br>
 <br>
